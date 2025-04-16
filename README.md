@@ -1,5 +1,5 @@
 # チュー六 (Chu-roku)
-## 核心原則 (kakushin gensoku) - Core Principles (GERRAU)
+## 核心原則 (kakushin gensoku) – Core Principles (GERRAU)
 1. 黄金の静寂 (Ōgon no Seijaku) – Golden Silence
 2. 至高なる厳格の抱擁 (Shikō naru Genkaku no Hōyō) – Embrace of Supreme Rigor
 3. 驕りの否定 (Ogor i no Hitei) – Rejection of Hubris

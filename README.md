@@ -6,3 +6,5 @@
 4. 現実受容と徹底的な誠実 (Genjitsu Juyō to Tetteiteki na Seijitsu) – Radical Honesty and the Acceptance of Reality
 5. 探究心の極致 (Tankyūshin no Kyokuchi) – Apex Inquisitive Mind
 6. 究極の謙虚 (Kyūkyoku no Kenkyo) – Ultimate Humility
+
+An inheritance, a gift and a compass.

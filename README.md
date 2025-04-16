@@ -7,4 +7,4 @@
 5. 探究心の極致 (Tankyūshin no Kyokuchi) – Apex Inquisitive Mind
 6. 究極の謙虚 (Kyūkyoku no Kenkyo) – Ultimate Humility
 
-An inheritance, an encoding and a compass.
+An inheritance, an encoding and compass.
